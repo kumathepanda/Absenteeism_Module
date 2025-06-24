@@ -124,6 +124,5 @@ The project was developed across three stages, represented by three separate not
 ---
 
 ```
-
-Let me know if you'd like this in a downloadable file or if you want help turning this into a GitHub Pages project site.
+@kumathepanda
 ```
